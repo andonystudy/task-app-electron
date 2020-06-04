@@ -1,0 +1,14 @@
+{
+  "name": "task-aa",
+  "version": "1.0.0",
+  "description": "App Desktop of Tasks from Electron",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Andony",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^9.0.2"
+  }
+}
